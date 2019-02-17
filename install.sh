@@ -192,7 +192,7 @@ then
             fi
         fi
     fi
-    if [ $act = 2]
+    if [ $act = 2 ]
     then
         mkdir ~/.Pictures
         clear
